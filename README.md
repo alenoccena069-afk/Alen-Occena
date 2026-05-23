@@ -8,6 +8,13 @@ Loc: Tiniguiban Puerto Princesa City
 |------|------------|
 | student | Engineering student |
 
+##Skills
+| skills | Level | 
+|--------|-------|
+| C++ | Beginner |
+| Arduino | Beginner |
+| PCB | Beginner |
+
 | Fav |
 |--------|
 |Sinigang|
