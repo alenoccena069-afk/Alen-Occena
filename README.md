@@ -9,7 +9,7 @@
 | student | Engineering student |
 
 | Fav |
-|--------|----------------------|
-|Sinigang|Adobong manok or baboy|
+|--------|
+|Sinigang|
 
 
