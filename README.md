@@ -7,6 +7,7 @@ Loc: Tiniguiban Puerto Princesa City
 | Role | Institution|
 |------|------------|
 | student | Engineering student |
+| Fullbright College |
 
 **Skills**
 | skills | Level | 
