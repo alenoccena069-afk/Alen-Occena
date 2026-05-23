@@ -15,8 +15,11 @@ Loc: Tiniguiban Puerto Princesa City
 | Arduino | Beginner |
 | PCB | Beginner |
 
-| Fav |
-|--------|
-|Sinigang|
+**Fav**
+ - Sinigang
+ - Adobo
+ - Tinola
+ - Sisig
+
 
 
