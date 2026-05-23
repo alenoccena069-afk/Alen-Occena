@@ -2,7 +2,7 @@
 
 **"it’s me Alen Occeña this is my portfolio in p6"**
 
-** Loc: Tiniguiban Puerto Princesa City**
+Loc: Tiniguiban Puerto Princesa City
 
 | Role | Institution|
 |------|------------|
