@@ -10,6 +10,6 @@
 
 | Fav |
 |--------|
-|Sinigang|
+|Sinigang|Adobong manok or baboy|
 
 
