@@ -8,6 +8,7 @@
 |------|------------|
 | student | Engineering student |
 
-**Fav**
+| Fav |
+|Sinigang|
 
 
