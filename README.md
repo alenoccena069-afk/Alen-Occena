@@ -2,12 +2,32 @@
 
 **it’s me Alen Occeña this is my portfolio in p6**
 
-Loc: Tiniguiban Puerto Princesa City
+**Location**
+Brgy. Tiniguiban, Puerto Princesa City
 
 | Role | Institution|
 |------|------------|
-| student | Engineering student |
-| Fullbright College 
+| student | Engineering student | 
+
+**Hobbies**
+ - Cooking
+ - Playing mobile games
+ - Baseball
+ - Motorcycle
+ - Listening to music
+
+**Fav**
+ - Sinigang
+ - Adobo
+ - Tinola
+ - Sisig
+ - Chicken curry
+
+**Fav drinks**
+ - Soft drinks ( Coke, Sprite and Pepsi )
+ - Water 
+ - Redhorse 
+
 
 **Skills**
 | skills | Level | 
@@ -16,11 +36,10 @@ Loc: Tiniguiban Puerto Princesa City
 | Arduino | Beginner |
 | PCB | Beginner |
 
-**Fav**
- - Sinigang
- - Adobo
- - Tinola
- - Sisig
+**Project**
+ - EasyEDA Schematic 
 
-
+**PCB design Practice**
+ - Create PCB layout using EasyEDA
+ - Create schematic using EasyEDA
 
