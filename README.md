@@ -8,7 +8,7 @@ Loc: Tiniguiban Puerto Princesa City
 |------|------------|
 | student | Engineering student |
 
-##Skills
+**Skills**
 | skills | Level | 
 |--------|-------|
 | C++ | Beginner |
