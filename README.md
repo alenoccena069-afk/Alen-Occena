@@ -1,6 +1,6 @@
 # Alen-Occena
 
-**it’s me Alen Occeña this is my portfolio in p6**
+**Hi it’s me Alen Occeña this is my portfolio**
 
 **Location**
 Brgy. Tiniguiban, Puerto Princesa City
@@ -28,6 +28,9 @@ Brgy. Tiniguiban, Puerto Princesa City
  - Water 
  - Redhorse 
 
+**Goals**
+ - To become successful in life 
+ - To be an Engr.
 
 **Skills**
 | skills | Level | 
